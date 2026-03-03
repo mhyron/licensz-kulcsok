@@ -1,13 +1,10 @@
 {
   "4C4C4544-0033-4310-805A-B3C04F483332": {
     "status": "ACTIVE",
-    "expires": "2026-12-31",
-    "client_name": "Eurosan Kft"
+    "client_name": "Attila - Tervezo6 gép"
   },
-  "MÁSIK-ÜGYFÉL-UUID": {
-    "status": "ACTIVE",
-    "expires": "2026-06-15",
-    "client_name": "Teszt Ügyfél"
-  },
-  "all_systems": "ON"
+  "MÁSIK-GÉP-UUID-JA": {
+    "status": "INACTIVE",
+    "client_name": "Lejárt Ügyfél Kft."
+  }
 }
