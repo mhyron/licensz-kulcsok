@@ -1,10 +1,6 @@
 {
-  "4C4C4544-0033-4310-805A-B3C04F483332": {
+  "11228644-C55E-11EB-8CAF-358DAFCD290B": {
     "status": "ACTIVE",
-    "client_name": "Attila - Tervezo6 gép"
-  },
-  "MÁSIK-GÉP-UUID-JA": {
-    "status": "INACTIVE",
-    "client_name": "Lejárt Ügyfél Kft."
+    "client_name": "Attila Tervezo6"
   }
 }
