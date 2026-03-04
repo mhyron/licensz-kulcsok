@@ -1,6 +1,10 @@
 {
-  "11228644-C55E-11EB-8CAF-358DAFCD290B": {
+  "HWID-40664268285387": {
+    "status": "ACTIVE",
+    "client_name": "Szekelyudvarhely Varoshaza"
+  },
+  "TESZT-ID-123": {
     "status": "INACTIVE",
-    "client_name": "Teszt gép"
+    "client_name": "Regi Szerver"
   }
 }
